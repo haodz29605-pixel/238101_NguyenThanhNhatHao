@@ -33,3 +33,11 @@ Hướng dẫn cài đặt và chạy ứng dụng sẽ được cập nhật tr
 1. Kéo Docker image từ Docker Hub:
    ```bash
    docker pull 238101nguyenthanhnhathao/backend:latest
+
+   ### Hướng dẫn chạy Frontend bằng Docker
+1. Kéo Docker image từ Docker Hub:
+bash
+docker pull 238101nguyenthanhnhathao/frontend:latest
+2. Chạy container:
+bash
+docker run -d -p 80:80 238101nguyenthanhnhathao/frontend:latestcd ..
