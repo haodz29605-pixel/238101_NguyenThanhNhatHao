@@ -27,4 +27,9 @@ Hướng dẫn cài đặt và chạy ứng dụng sẽ được cập nhật tr
 
 ## 6. Thông tin sinh viên
 - MSSV: 238101
-- Họ tên: Nguyễn Thành Nhật Hào
+- Họ tên: Nguyễn Thanh Nhật Hảo
+
+### Hướng dẫn chạy Backend bằng Docker
+1. Kéo Docker image từ Docker Hub:
+   ```bash
+   docker pull 238101nguyenthanhnhathao/backend:latest
