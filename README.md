@@ -40,4 +40,7 @@ bash
 docker pull 238101nguyenthanhnhathao/frontend:latest
 2. Chạy container:
 bash
-docker run -d -p 80:80 238101nguyenthanhnhathao/frontend:latestcd ..
+docker run -d -p 80:80 238101nguyenthanhnhathao/frontend:latest
+
+### URL Triển khai
+- **Frontend (Render):** https://web-238101nguyenthanhnhathao.onrender.com
