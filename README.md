@@ -45,4 +45,8 @@ docker run -d -p 80:80 238101nguyenthanhnhathao/frontend:latest
 ### URL Triển khai
 - **Frontend (Render):** https://web-238101nguyenthanhnhathao.onrender.com
 
-https://api-238101nguyenthanhnhathao.onrender.com/
+- **Backend API (Render):** https://api-238101nguyenthanhnhathao.onrender.com
+
+- **Docker Hub Backend:** https://hub.docker.com/r/238101nguyenthanhnhathao/backend
+
+**Docker Hub Frontend:** https://hub.docker.com/r/238101nguyenthanhnhathao/frontend
